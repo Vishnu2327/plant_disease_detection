@@ -1,5 +1,5 @@
 # 🌿 Plant Disease Detection using Deep Learning (ResNet50)
-
+![Hardik Pandya](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU1ZW96cmxuMjNxYWVuc3U2bTY1ODRoeHE1d2p5ajlvYnFzaXkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uLhITv9fCzhB5nv26P/giphy.gif)
 ## 📌 Overview
 
 This project uses **Deep Learning and Transfer Learning** to detect plant diseases from leaf images. It leverages the **PlantVillage dataset** and a pretrained **ResNet50 model** to classify plant leaves into healthy or diseased categories.
