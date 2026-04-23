@@ -1,7 +1,5 @@
 # 🌿 Plant Disease Detection using Deep Learning (ResNet50)
 
-<img width="545" height="597" alt="image" src="https://github.com/user-attachments/assets/92cc7691-bb99-4909-bb7d-2f95e092bb6d" />
-
 
 
 ## 📌 Overview
